@@ -11,8 +11,8 @@ It was a 2-week nation-wide competition
 - Used heavy Data Augmentations like Cutout, Colour Dimension shifts etc.
 - Generated an ensemble of all the best performing models
 
-### Rank - 25th out of 2000 (Top 3.4 %).
-
 ### Link to my work 
 https://www.kaggle.com/sandeeppat/ship-classification-top-3-5-kernel
+
+### Rank - 25th out of 2000 (Top 3.4 %).
 
